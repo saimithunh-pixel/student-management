@@ -1,0 +1,44 @@
+
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.container {
+    max-width: 1100px;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+h2 {
+    color: #212529;
+    font-weight: 600;
+}
+
+.table {
+    background-color: white;
+    vertical-align: middle;
+}
+
+.table th {
+    text-align: center;
+}
+
+.table td {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 6px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
